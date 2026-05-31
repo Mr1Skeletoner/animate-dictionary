@@ -2,7 +2,7 @@ you make each individual frames in a dictionary like this:
 
 animation = 
 
-{0: ("FRAMES GO HERE",
+                        {0: ("FRAMES GO HERE",
                              
                              "FRAMES GO HERE",
                              
